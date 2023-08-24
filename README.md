@@ -1,6 +1,6 @@
 # 2048_game
-
-                                             Hosting a web game on ngninx 
+  
+                                               Hosting a web game on ngninx 
 
 Pre-requisites : 
 * Visual studio or any terminal ( I would prefer visual studio for clear and easy view )
